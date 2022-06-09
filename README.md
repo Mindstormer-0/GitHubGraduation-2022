@@ -1,4 +1,6 @@
-# GitHub Graduation-2022
+[![Scheduled Merge Remote Action](https://github.com/Mindstormer-0/GitHubGraduation-2022/actions/workflows/upstream-merger.yml/badge.svg?event=workflow_run)](https://github.com/Mindstormer-0/GitHubGraduation-2022/actions/workflows/upstream-merger.yml)
+
+# GitHub Graduation-2022 Archive
 
 ### Available Translations 🗣
 
