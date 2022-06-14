@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-      with:
+      # with:
         #fetch-depth: 10  # greater than the number of commits you made
     - uses: imba-tjd/rebase-upstream-action@master
       with:  # all args are optional
